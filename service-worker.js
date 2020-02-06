@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/webtoon-collection/precache-manifest.34a5bd8d2da31991d1e1b2fcc84eb832.js"
+  "/webtoon-collection/precache-manifest.9f366e095a0c9bca892b4b669667659c.js"
 );
 
 self.addEventListener('message', (event) => {

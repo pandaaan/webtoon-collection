@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29a47b21f8a5a6b8ac944d199f65178f",
+    "revision": "66491d02b67827bfba8a139ca3212476",
     "url": "/webtoon-collection/index.html"
   },
   {
