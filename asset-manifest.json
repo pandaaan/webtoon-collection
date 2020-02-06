@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/webtoon-collection/static/css/main.8b779ed5.chunk.css",
+    "main.js": "/webtoon-collection/static/js/main.4c44b07a.chunk.js",
+    "main.js.map": "/webtoon-collection/static/js/main.4c44b07a.chunk.js.map",
+    "runtime-main.js": "/webtoon-collection/static/js/runtime-main.3f2403a7.js",
+    "runtime-main.js.map": "/webtoon-collection/static/js/runtime-main.3f2403a7.js.map",
+    "static/css/2.67123b20.chunk.css": "/webtoon-collection/static/css/2.67123b20.chunk.css",
+    "static/js/2.bef188f8.chunk.js": "/webtoon-collection/static/js/2.bef188f8.chunk.js",
+    "static/js/2.bef188f8.chunk.js.map": "/webtoon-collection/static/js/2.bef188f8.chunk.js.map",
+    "index.html": "/webtoon-collection/index.html",
+    "precache-manifest.c1ed40a568f1cadd1dacf5e9c1d384a4.js": "/webtoon-collection/precache-manifest.c1ed40a568f1cadd1dacf5e9c1d384a4.js",
+    "service-worker.js": "/webtoon-collection/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/webtoon-collection/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.8b779ed5.chunk.css.map": "/webtoon-collection/static/css/main.8b779ed5.chunk.css.map",
+    "static/js/2.bef188f8.chunk.js.LICENSE.txt": "/webtoon-collection/static/js/2.bef188f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f2403a7.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.bef188f8.chunk.js",
+    "static/css/main.8b779ed5.chunk.css",
+    "static/js/main.4c44b07a.chunk.js"
+  ]
+}
