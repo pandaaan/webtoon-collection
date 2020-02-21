@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/webtoon-collection/static/css/main.957aca2e.chunk.css",
-    "main.js": "/webtoon-collection/static/js/main.e2b483a6.chunk.js",
-    "main.js.map": "/webtoon-collection/static/js/main.e2b483a6.chunk.js.map",
+    "main.js": "/webtoon-collection/static/js/main.ff43eb5f.chunk.js",
+    "main.js.map": "/webtoon-collection/static/js/main.ff43eb5f.chunk.js.map",
     "runtime-main.js": "/webtoon-collection/static/js/runtime-main.3f2403a7.js",
     "runtime-main.js.map": "/webtoon-collection/static/js/runtime-main.3f2403a7.js.map",
     "static/css/2.67123b20.chunk.css": "/webtoon-collection/static/css/2.67123b20.chunk.css",
-    "static/js/2.7d8f3ef8.chunk.js": "/webtoon-collection/static/js/2.7d8f3ef8.chunk.js",
-    "static/js/2.7d8f3ef8.chunk.js.map": "/webtoon-collection/static/js/2.7d8f3ef8.chunk.js.map",
+    "static/js/2.51af64a7.chunk.js": "/webtoon-collection/static/js/2.51af64a7.chunk.js",
+    "static/js/2.51af64a7.chunk.js.map": "/webtoon-collection/static/js/2.51af64a7.chunk.js.map",
     "index.html": "/webtoon-collection/index.html",
-    "precache-manifest.78adfe54e7c4b27a9ce580bdc2191cca.js": "/webtoon-collection/precache-manifest.78adfe54e7c4b27a9ce580bdc2191cca.js",
+    "precache-manifest.439804b6e0058ab1d7e3c756e4987757.js": "/webtoon-collection/precache-manifest.439804b6e0058ab1d7e3c756e4987757.js",
     "service-worker.js": "/webtoon-collection/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/webtoon-collection/static/css/2.67123b20.chunk.css.map",
     "static/css/main.957aca2e.chunk.css.map": "/webtoon-collection/static/css/main.957aca2e.chunk.css.map",
-    "static/js/2.7d8f3ef8.chunk.js.LICENSE.txt": "/webtoon-collection/static/js/2.7d8f3ef8.chunk.js.LICENSE.txt",
+    "static/js/2.51af64a7.chunk.js.LICENSE.txt": "/webtoon-collection/static/js/2.51af64a7.chunk.js.LICENSE.txt",
     "static/media/webtoon-logo.png": "/webtoon-collection/static/media/webtoon-logo.65797e1f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3f2403a7.js",
     "static/css/2.67123b20.chunk.css",
-    "static/js/2.7d8f3ef8.chunk.js",
+    "static/js/2.51af64a7.chunk.js",
     "static/css/main.957aca2e.chunk.css",
-    "static/js/main.e2b483a6.chunk.js"
+    "static/js/main.ff43eb5f.chunk.js"
   ]
 }
