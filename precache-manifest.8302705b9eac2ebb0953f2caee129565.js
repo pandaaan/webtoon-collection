@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8908bc168cfd1fb09b95e8ec3cac25b3",
+    "revision": "c3922692b1a8ef054051d9e9cb1c8495",
     "url": "/webtoon-collection/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webtoon-collection/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "ef7ebc5dbec13700edae",
+    "revision": "92d9390901371a05deaa",
     "url": "/webtoon-collection/static/css/main.957aca2e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webtoon-collection/static/js/2.51af64a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef7ebc5dbec13700edae",
-    "url": "/webtoon-collection/static/js/main.0e32197b.chunk.js"
+    "revision": "92d9390901371a05deaa",
+    "url": "/webtoon-collection/static/js/main.ee66bf46.chunk.js"
   },
   {
     "revision": "c061b2a40b44b5e42a13",
